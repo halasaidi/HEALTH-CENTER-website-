@@ -12,7 +12,8 @@ Testing was performed on the static version of the HEALTH CENTER website to veri
 - Most UI elements and navigation links worked as expected.
 - One major issue was found with the "Contact Us" button not responding.
 - Responsiveness was verified on multiple devices and browsers with satisfactory results.
-- Some images did not load correctly on the homepage.
+- Images display properly on local environment.
+- Some footer links did not work.
 
 ## Conclusion
 The website is functional in its current static state with minor issues to be fixed. Backend features are not yet implemented and were not tested.
