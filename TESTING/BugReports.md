@@ -6,17 +6,17 @@
 **Title:** "Contact Us" button not working  
 **Reported by:** Hala Saidi  
 **Date:** 15 July 2025  
-**Environment:** Windows 10, Chrome  
+**Environment:** Windows 10, Chrome (Local Environment)  
 
 **Steps to Reproduce:**  
-1. Open the homepage.  
-2. Click on the "Contact Us" button.  
+1. Open the homepage locally.  
+2. Click on the "Contact Us" button.
 
 **Expected Result:**  
-The "Contact Us" page should open.  
+The "Contact Us" page should open.
 
 **Actual Result:**  
-Nothing happens when clicking the button.  
+Nothing happens when clicking the button.
 
 **Severity:** Medium  
 **Priority:** High  
@@ -25,23 +25,26 @@ Nothing happens when clicking the button.
 ---
 
 ### Bug ID: BUG_002  
-**Title:** Images on homepage not displaying  
+**Title:** Images on homepage display correctly on local environment  
 **Reported by:** Hala Saidi  
 **Date:** 15 July 2025  
-**Environment:** Windows 10, Firefox  
+**Environment:** Windows 10, Firefox (Local Environment)  
 
 **Steps to Reproduce:**  
-1. Open the homepage.  
+1. Open the homepage locally.
 
 **Expected Result:**  
-All images should display correctly.  
+All images should display correctly.
 
 **Actual Result:**  
-Broken image icons appear instead of pictures.  
+Images display properly on local environment.
 
-**Severity:** Low  
-**Priority:** Medium  
-**Status:** Open  
+**Severity:** N/A  
+**Priority:** N/A  
+**Status:** Verified  
+
+**Notes:**  
+Images are stored locally and work well in the current environment. Upload paths should be checked before online deployment.
 
 ---
 
@@ -49,17 +52,17 @@ Broken image icons appear instead of pictures.
 **Title:** Footer links not working  
 **Reported by:** Hala Saidi  
 **Date:** 15 July 2025  
-**Environment:** Windows 10, Edge  
+**Environment:** Windows 10, Edge (Local Environment)  
 
 **Steps to Reproduce:**  
 1. Scroll to the footer.  
-2. Click any link in the footer.  
+2. Click any link.
 
 **Expected Result:**  
-The link should open the correct page.  
+Footer links should navigate to the correct pages.
 
 **Actual Result:**  
-Nothing happens or a broken page error appears.  
+No response or error pages occur.
 
 **Severity:** High  
 **Priority:** High  
