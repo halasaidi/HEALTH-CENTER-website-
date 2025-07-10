@@ -1,7 +1,7 @@
-# Test Plan for HEALTH-CENTER-website
+# Test Plan for HEALTH CENTER Website
 
 ## 1. Introduction
-This document outlines the test plan for the HEALTH-CENTER-website. The site is currently static and under development. Testing at this stage helps identify UI and usability issues early in development.
+This document outlines the test plan for the HEALTH CENTER website. The site is currently static and under development. Testing at this stage helps identify UI and usability issues early in development.
 
 ## 2. Objectives
 - Verify the basic functionality of available features.
