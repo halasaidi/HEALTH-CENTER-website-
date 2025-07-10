@@ -1,28 +1,39 @@
-# Test Plan for HEALTH CENTER Website
+# Test Plan for HEALTH-CENTER-website
 
-## Purpose
-To test the basic functionality, design, and responsiveness of the HEALTH CENTER website.
+## 1. Introduction
+This document outlines the test plan for the HEALTH-CENTER-website. The site is currently static and under development. Testing at this stage helps identify UI and usability issues early in development.
 
-## What to Test
-- Buttons and links: Ensure they work correctly.
-- Page layout and design: Ensure the layout is clear and consistent.
-- Responsive design: Check the website on mobile, tablet, and desktop screens.
-- Content: Verify that the text and images are displayed correctly.
+## 2. Objectives
+- Verify the basic functionality of available features.
+- Ensure the website design is consistent and responsive.
+- Identify any issues or bugs present in the current version.
+- Ensure user-friendly navigation and interactions.
 
-## Tools
-- Manual testing in browsers (Chrome, Firefox, Edge).
-- Chrome DevTools.
+## 3. Scope
+- Testing will cover UI elements, links, responsiveness, and content display.
+- Backend functionality is currently not in scope as the project is still under development.
 
-## Test Environment
-- Windows 10
-- Browsers: Chrome 125, Firefox 125, Edge 123
+## 4. Test Approach
+- Testing will be conducted manually, focusing on UI elements, links, and responsiveness across devices.
 
-## Tester
-- Hala Saidi
+## 5. Environment
+- Operating System: Windows 10
+- Browsers: Chrome, Firefox, Edge (latest versions)
 
-## Test Schedule
-- Start: 10 July 2025
-- End: 12 July 2025
+## 6. Tools
+- Chrome DevTools
+- Manual testing processes
 
-## Notes
-This is a simple static website, so no backend testing is required.
+## 7. Schedule
+- Test start date: 15 July 2025
+- Test end date: 18 July 2025
+
+## 8. Risks
+- Potential changes in design or functionality during development may affect testing.
+- Limited testing time due to project deadlines.
+
+## 9. Deliverables
+- Test cases document
+- Bug report (if applicable)
+- Test summary report
+
