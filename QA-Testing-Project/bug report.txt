@@ -1,0 +1,18 @@
+Bug 1
+Title : test Niv button (make an appointment button) 
+   steps:
+           1-open website
+           2- click on  make an appointment button
+   Expected:
+    Clicking the button should scroll to the Contact section.
+
+   Actual:
+    Nothing happens when the button is clicked
+
+   severity: Medium
+   priority: low
+   Type: Functional / UI
+  
+
+__________________________
+

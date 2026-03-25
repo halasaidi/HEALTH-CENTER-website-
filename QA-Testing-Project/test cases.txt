@@ -1,0 +1,53 @@
+Test Case 1
+Title :test home layout on desktop 
+   steps:
+           1-open website on desktop
+           
+   Expected:
+   all of section  layout is perfect 
+________________________
+ Test Case 2         
+Title : test home layout on mobile
+   steps:
+           1-open website
+           2-set the responsive on mobile mood 
+           
+   Expected:
+   all section is responsive	
+
+__________________________
+
+Test Case 3 
+Title : test about us link
+   steps:
+           1-open website
+           2- click on about us in Niv bar  
+   Expected:
+    Clicking the link should scroll to the about us section.
+__________________________
+
+Test Case 4 
+Title : test doctors link
+   steps:
+           1-open website
+           2- click on doctors in Niv bar  
+   Expected:
+    Clicking the link should scroll to the doctors section.
+__________________________
+
+Test Case 5
+Title : test contact link
+   steps:
+           1-open website
+           2- click on contact in Niv bar  
+   Expected:
+    Clicking the link should scroll to the Contact section.
+__________________________
+
+Test Case 4
+Title : test Niv button (make an appointment button) 
+   steps:
+           1-open website
+           2- click on  make an appointment button
+   Expected:
+    Clicking the button should scroll to the Contact section.

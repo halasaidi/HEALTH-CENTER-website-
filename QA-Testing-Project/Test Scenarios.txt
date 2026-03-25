@@ -1,0 +1,7 @@
+test homepage layout on desktop
+test homepage layout on mobile 
+test home link
+test about us link
+test doctors link 
+test contact link
+test make an appointment button
